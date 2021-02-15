@@ -1,2 +1,2 @@
-# FruitsBlaster
-drag the ball to shoot at the fruits
+# p5.play-boilerplate
+Boiler plate for p5.play
